@@ -1,0 +1,46 @@
+body {
+    background: rgb(204, 204, 224);
+    margin: 0;
+}
+body{   
+    box-sizing: border-box;
+}
+header {
+    background: white;
+    padding: 10px;
+}
+header h1 {
+    margin: 0;
+
+}
+div.post {
+    background: white;
+    margin-top: 20px;
+}
+
+div.post h2 {
+    padding: 5px;
+}
+div.post p2 {
+    padding: 5px;
+}
+div.post img {
+    width: 100%;
+} 
+div.container {
+    width: 600px;
+    margin:auto;
+}
+div.post .post-header div:first-child{
+    float: left;
+    width: 80%;
+    }
+div.post .post-header p1 {
+    float: right;
+    color: rgb(219, 197, 197);
+    margin-right: 10px;
+    margin-top: 30px;
+    }
+
+
+
